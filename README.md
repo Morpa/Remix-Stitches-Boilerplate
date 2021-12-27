@@ -3,15 +3,20 @@
 <p align="center">
   <img alt="Made by" src="https://img.shields.io/badge/made%20by-Morpa%20-%2356BEB8">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/morpa/Remix-Boilerplate.svg?color=56BEB8">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/morpa/Remix-Stitches-Boilerplate
+.svg?color=56BEB8">
 
-  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/morpa/Remix-Boilerplate.svg?color=56BEB8">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/morpa/Remix-Stitches-Boilerplate
+.svg?color=56BEB8">
 
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Morpa/Remix-Boilerplate?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Morpa/Remix-Stitches-Boilerplate
+?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Morpa/Remix-Boilerplate?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Morpa/Remix-Stitches-Boilerplate
+?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Morpa/Remix-Boilerplate?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Morpa/Remix-Stitches-Boilerplate
+?color=56BEB8">
 
 </p>
 
