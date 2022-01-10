@@ -5,16 +5,16 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration
-} from "remix";
-import type { MetaFunction } from "remix";
-import { globalStyles } from "./styles/stitches.config";
+} from 'remix'
+import type { MetaFunction } from 'remix'
+import { globalStyles } from './styles/stitches.config'
 
 export const meta: MetaFunction = () => {
-  return { title: "New Remix App" };
-};
+  return { title: 'New Remix App' }
+}
 
 export default function App() {
-  globalStyles();
+  globalStyles()
 
   return (
     <html lang="en">
@@ -28,8 +28,8 @@ export default function App() {
         <Outlet />
         <ScrollRestoration />
         <Scripts />
-        {process.env.NODE_ENV === "development" && <LiveReload />}
+        {process.env.NODE_ENV === 'development' && <LiveReload />}
       </body>
     </html>
-  );
+  )
 }
