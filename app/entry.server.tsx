@@ -2,7 +2,6 @@ import ReactDOMServer from 'react-dom/server'
 import { RemixServer, EntryContext } from 'remix'
 import { getCssText } from './styles/stitches.config'
 
-
 export default async function handleRequest(
   request: Request,
   responseStatusCode: number,
@@ -17,7 +16,7 @@ export default async function handleRequest(
     status: responseStatusCode,
     headers: {
       ...Object.fromEntries(responseHeaders),
-      'Content-Type': 'text/html',
-    },
+      'Content-Type': 'text/html'
+    }
   })
 }
