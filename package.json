@@ -36,7 +36,7 @@
     ]
   },
   "devDependencies": {
-    "@remix-run/dev": "^1.6.7",
+    "@remix-run/dev": "^1.6.8",
     "@storybook/addon-essentials": "^6.5.9",
     "@storybook/react": "^6.4.21",
     "@testing-library/jest-dom": "^5.16.4",
