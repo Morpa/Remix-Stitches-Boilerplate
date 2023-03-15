@@ -12504,10 +12504,10 @@ remark-squeeze-paragraphs@4.0.0:
   dependencies:
     mdast-squeeze-paragraphs "^4.0.0"
 
-remix@^1.6.8:
-  version "1.6.8"
-  resolved "https://registry.yarnpkg.com/remix/-/remix-1.6.8.tgz#da738ca60b3da8a723e892b80b78ecaf75c2a944"
-  integrity sha512-PsgtTppicEVV+QcO0elUkZ9+pG6kC7jNNOxl69vIsM3ZQVczaXhfNLVuqAavYjZT9V09HT9/OX93SK8qqth3Ow==
+remix@^1.14.2:
+  version "1.14.2"
+  resolved "https://registry.yarnpkg.com/remix/-/remix-1.14.2.tgz#15ac6002dc05d1300dacc81b86416f31f9819900"
+  integrity sha512-5IwzYkovbDOKymLLfmb3WKJ6T3cNJBXbu1dLqKZqopxXwEvtPx/7iIbYK1dGB93MezEKayWaVQU+T/K2JoQmRg==
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
