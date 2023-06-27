@@ -9405,10 +9405,10 @@ remark-slug@^6.0.0:
     mdast-util-to-string "^1.0.0"
     unist-util-visit "^2.0.0"
 
-remix@^1.14.3:
-  version "1.14.3"
-  resolved "https://registry.yarnpkg.com/remix/-/remix-1.14.3.tgz#500a2912b098cce01089520eca2d4ee63e48973d"
-  integrity sha512-sBFl/qPnRX7pVGMhpE2PWDdQA+yus/z3IKly2y2ShT6C1WV34pyS7FI6Y99OF8JFO/6/cPCz0FzzorZQOo8myA==
+remix@^1.18.0:
+  version "1.18.0"
+  resolved "https://registry.yarnpkg.com/remix/-/remix-1.18.0.tgz#6d40b4e239dc2697d139d35ce2e9659267e86380"
+  integrity sha512-8r+WGJ+0i2TlX119wQJmXSE8Zc1lVvacnFxyhKvhP7D6WnPthWPUAbmz1RQIWQ0WK1hwr8RT58R8aZNU+Gsg6A==
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
